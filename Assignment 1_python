@@ -1,0 +1,43 @@
+A] print ("Hello,world!") 
+B] mylist=[1,3,6] 
+   mylist.insert(1,2)
+   print(mylist)
+   mylist.remove(3)
+   print(mylist)
+   mylist.append(5)
+   print(mylist)
+   mylist.sort()
+   print(mylist)
+   mylist.pop()
+   print(mylist)
+   mylist.reverse()
+   print(mylist)
+C] num1=int(input)
+   num2=int(input)
+   add=num1+num2
+   print(add)
+   sub=num1-num2
+   print(sub) 
+   mul=num1*num2
+   print(mul)
+D] num1=int(input)
+   num2=int(input)
+   print(num1//num2)
+   print(num1/num2)
+   
+   
+   mylist=[]
+   mylist.insert(0,5)
+   mylist.insert(1,10)
+   mylist.insert(0,6)
+   print(mylist)
+   mylist.remove(6)
+   mylist.append(9)
+   mylist.append(1)
+   mylist.sort()
+   print(mylist)
+   mylost.pop()
+   mylist.reverse()
+   print(mylist)
+   
+   
