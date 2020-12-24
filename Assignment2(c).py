@@ -12,7 +12,7 @@ print (mymatrix)
 myarray<-array(c('red','blue'),dim=c(3,3,2))
 print (myarray)
 #creating dataframes
-mydataframes<-data.frame(mname=c('samsung', 'micromax','redmi'), price=c (1000,8000,5000), weight=c(42,41,50))
+mydataframe<-data.frame(mname=c('samsung', 'micromax','redmi'), price=c (1000,8000,5000), weight=c(42,41,50))
 print(mydataframe)
 #pie chart
 pie(myvector,main='piechart')
