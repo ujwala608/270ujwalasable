@@ -6,7 +6,7 @@ print(class(myvector))
 mylist<-list(c(20,3,40,5))
 print(mylist)
 #creating matrix
-mymatrix<-c('a','a','b','c','b','a'),nrow=2,ncol=3,byrow=TRUE)
+mymatrix<-c(('a','a','b','c','b','a'),nrow=2,ncol=3,byrow=TRUE)
 print (mymatrix)
 #creating array
 myarray<-array(c('red','blue'),dim=c(3,3,2))
